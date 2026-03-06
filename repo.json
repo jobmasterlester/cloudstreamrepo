@@ -1,0 +1,9 @@
+{
+    "name": "jobmasterlester Repo",
+    "iconUrl": "https://avatars.githubusercontent.com/u/52831468",
+    "description": "jobmasterlester Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/jobmasterlester/cloudstreamrepo/refs/heads/main/plugins.json"
+    ]
+}
