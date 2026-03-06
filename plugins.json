@@ -1,0 +1,129 @@
+[
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/lwR3a_qUxIKBkNJdwZl5gqed9Tev9KNM7LEdcgYx5TjWpqq2EAt7ZUdd-iQgIq6kqb2n-9G7-uihwlGBkJ0THg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jobmasterlester/cloudstreamrepo",
+        "fileSize": 56506,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "jobmasterlester"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA",
+            "AnimeMovie"
+        ],
+        "version": 61,
+        "internalName": "AnimeKai",
+        "description": "Animes & Animes Movie",
+        "url": "https://github.com/jobmasterlester/cloudstreamrepo/raw/refs/heads/main/AnimeKai/AnimeKai.cs3",
+        "name": "AnimeKai"
+    },
+ {
+        "iconUrl": "https://play-lh.googleusercontent.com/Np4ZqZXlDUjWHrjocaiFhQah6d2-pk5ByToFOKXSeetqmOlDpwo5NCbT0cPvNRA6w_Ite0etb3emZSLpdUVWUTY",
+        "jarFileSize": 188713,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jobmasterlester/cloudstreamrepo",
+        "fileSize": 40232,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "jobmasterlester"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 16,
+        "internalName": "AnimePahe",
+        "description": "Animes (SUB/DUB)",
+        "url": "https://github.com/jobmasterlester/cloudstreamrepo/raw/refs/heads/main/AnimePahe/AnimePahe.cs3",
+        "name": "AnimePahe"
+    },
+{
+        "iconUrl": "https://play-lh.googleusercontent.com/Esf5_zkLkLm2m_EIWqeuHxOLgFsH-Qu0Z0TAhghdKweySx5Mdzbyoehevk_spPrTOJxWZ1YUhGU87jfzdnHHyQ",
+        "jarFileSize": 152213,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jobmasterlester/cloudstreamrepo",
+        "fileSize": 38477,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "jobmasterlester"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 16,
+        "internalName": "KisskhProvider",
+        "url": "https://github.com/jobmasterlester/cloudstreamrepo/raw/refs/heads/main/KisskhProvider/KisskhProvider.cs3",
+        "name": "KisskhProvider"
+    },
+  {
+        "iconUrl": "https://play-lh.googleusercontent.com/XjtdCji-BGnljxRyYc7nP9Gu2tHbP3-XN2e-_Nz4Bgy_fEjcB6MjEH_qSyx1GVEP1uxsnlxFUA3WCdK8hqfz",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jobmasterlester/cloudstreamrepo",
+        "fileSize": 62954,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "jobmasterlester"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 12,
+        "internalName": "MovieBoxProvider",
+        "description": "Multi Language Movies and Series Provider",
+        "url": "https://github.com/jobmasterlester/cloudstreamrepo/raw/refs/heads/main/MovieBoxProvider/MovieBoxProvider.cs3",
+        "name": "MovieBoxProvider"
+    },
+
+{
+        "iconUrl": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jobmasterlester/cloudstreamrepo",
+        "fileSize": 58817,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "jobmasterlester"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 42,
+        "internalName": "Netmirror",
+        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+        "url": "https://github.com/jobmasterlester/cloudstreamrepo/raw/refs/heads/main/NetMirror/NetMirror.cs3",
+        "name": "NetMirror"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/FwTqoULmglah_4MQNKtknE5uJYamJvom46Zj3T4cX1vqirPMnLOkrmnHCcVhjek1GnLZ",
+        "jarFileSize": 88543,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/jobmasterlester/cloudstreamrepo",
+        "fileSize": 20469,
+        "status": 1,
+        "language": "fil",
+        "authors": [
+            "jobmasterlester"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "Pinoymoviepedia",
+        "description": "Contains filipino movies",
+        "url": "https://github.com/jobmasterlester/cloudstreamrepo/raw/refs/heads/main/Pinoymoviepedia/Pinoymoviepedia.cs3",
+        "name": "Pinoymoviepedia"
+    }
+]
