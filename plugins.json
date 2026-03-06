@@ -17,7 +17,7 @@
         "version": 61,
         "internalName": "AnimeKai",
         "description": "Animes & Animes Movie",
-        "url": "https://github.com/jobmasterlester/cloudstreamrepo/raw/refs/heads/main/AnimeKai/AnimeKai.cs3",
+        "url": "https://raw.githubusercontent.com/jobmasterlester/cloudstreamrepo/refs/heads/main/AnimeKai/AnimeKai.cs3",
         "name": "AnimeKai"
     },
  {
@@ -39,7 +39,7 @@
         "version": 16,
         "internalName": "AnimePahe",
         "description": "Animes (SUB/DUB)",
-        "url": "https://github.com/jobmasterlester/cloudstreamrepo/raw/refs/heads/main/AnimePahe/AnimePahe.cs3",
+        "url": "https://raw.githubusercontent.com/jobmasterlester/cloudstreamrepo/refs/heads/main/AnimePahe/AnimePahe.cs3",
         "name": "AnimePahe"
     },
 {
@@ -61,7 +61,7 @@
         ],
         "version": 16,
         "internalName": "KisskhProvider",
-        "url": "https://github.com/jobmasterlester/cloudstreamrepo/raw/refs/heads/main/KisskhProvider/KisskhProvider.cs3",
+        "url": "https://raw.githubusercontent.com/jobmasterlester/cloudstreamrepo/refs/heads/main/KisskhProvider/KisskhProvider.cs3",
         "name": "KisskhProvider"
     },
   {
@@ -81,7 +81,7 @@
         "version": 12,
         "internalName": "MovieBoxProvider",
         "description": "Multi Language Movies and Series Provider",
-        "url": "https://github.com/jobmasterlester/cloudstreamrepo/raw/refs/heads/main/MovieBoxProvider/MovieBoxProvider.cs3",
+        "url": "https://raw.githubusercontent.com/jobmasterlester/cloudstreamrepo/refs/heads/main/MovieBoxProvider/MovieBoxProvider.cs3",
         "name": "MovieBoxProvider"
     },
 
@@ -102,7 +102,7 @@
         "version": 42,
         "internalName": "Netmirror",
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "url": "https://github.com/jobmasterlester/cloudstreamrepo/raw/refs/heads/main/NetMirror/NetMirror.cs3",
+        "url": "https://raw.githubusercontent.com/jobmasterlester/cloudstreamrepo/refs/heads/main/NetMirror/NetMirror.cs3",
         "name": "NetMirror"
     },
     {
@@ -123,7 +123,8 @@
         "version": 2,
         "internalName": "Pinoymoviepedia",
         "description": "Contains filipino movies",
-        "url": "https://github.com/jobmasterlester/cloudstreamrepo/raw/refs/heads/main/Pinoymoviepedia/Pinoymoviepedia.cs3",
+        "url": "https://raw.githubusercontent.com/jobmasterlester/cloudstreamrepo/refs/heads/main/Pinoymoviepedia/Pinoymoviepedia.cs3",
         "name": "Pinoymoviepedia"
     }
+
 ]
